@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando t;ecnico em desenvolvimento de software no Senac EAD.
+- 🎓 Estudando tecnico em desenvolvimento de software no Senac EAD.
 - 💼 Não estou trabalhando no momento.
 - 🌱 Aprendendo mais sobre Java, PHP e JS.
 
