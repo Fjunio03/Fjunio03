@@ -37,6 +37,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fl%C3%A1vio-junio-ba6380210/)](https://www.linkedin.com/in/fl%C3%A1vio-junio-ba6380210/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juniorflavio540@yahoo.com)](mailto:juniorflavio540@yahoo.com)
+[![Linkedin](https://img.shields.io/badge/-Fjunio03-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fl%C3%A1vio-junio-ba6380210/)](https://www.linkedin.com/in/fl%C3%A1vio-junio-ba6380210/)
+[![Gmail Badge](https://img.shields.io/badge/-juniorflavio540@yahoo.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juniorflavio540@yahoo.com)](mailto:juniorflavio540@yahoo.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Fjunio03)
